@@ -24,10 +24,10 @@
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "ca-app-pub-4906514950970947/9943447668",
-        "AdMobInterstitial"   : "ca-app-pub-4906514950970947/8461398506",
+        "AdMobBanner"         : "",
+        "AdMobInterstitial"   : "",
         "AdMobNative"         : "",
-        "AdMobOpenAd"         : "ca-app-pub-4906514950970947/6892277916",
+        "AdMobOpenAd"         : "",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
