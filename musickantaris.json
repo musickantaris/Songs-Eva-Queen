@@ -1,7 +1,7 @@
 {
   "AppRedirect": {
-    "status"     : false,
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+    "status"     : true,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.eva.queen.musickantaris"
   },
   
   
@@ -20,7 +20,7 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 10,
+      "NativeAdRow"        : 0,
 
       "AdPlacement": {
         
